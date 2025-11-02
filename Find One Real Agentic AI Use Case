@@ -1,0 +1,27 @@
+Student Name: M Arsalan Siddiqui
+Course Code: AI-201
+Project Title: Aireon Adoption of Agentic AI in Security Operations Case Study
+
+Project Description
+This project explores how real organizations are adopting agentic AI systems in daily operations. The objective is to understand what problem they faced, what AI agent they built or adopted, how human control is maintained, what results they achieved, and why their implementation succeeded. The selected organization for this study is Aireon, a global satellite service provider that applied agentic AI to enhance cybersecurity operations.
+
+1. What problem did they face
+Aireon provides real time air traffic surveillance for global aviation. The organization operates with fewer than two hundred employees and has a small cybersecurity team of only five people. Their Security Operations Center had to process more than one hundred and thirty million log events each day. Manual analysis and traditional detection tools were not enough to manage such a massive workload. This created serious challenges in identifying potential intrusions, tracking alerts, and responding to cyber incidents quickly.
+
+2. What AI agent did they adopt
+Aireon implemented agentic AI assistants to strengthen its security operations. They combined an open source large language model called WhiteRabbitNeo with a commercial platform developed by Kindo AI. These agents perform a variety of operational tasks including threat hunting, running DevSecOps workflows, reviewing documentation, and identifying developers who require security support. The agents operate as intelligent digital coworkers that assist human analysts in monitoring and responding to cyber threats efficiently.
+
+3. How do people stay in control
+Human control remains at the center of Aireon’s system. Analysts define the goals, approve the agent’s actions, and validate all responses. The AI agents only execute within approved boundaries. Every task and output is recorded in an audit log, and the system includes approval checkpoints to maintain compliance and governance. This ensures that the AI agents assist the human team but never act independently in critical decision making.
+
+4. What results did they get
+After the implementation of agentic AI, Aireon successfully detected and stopped two active advanced persistent threats before they caused harm. According to their internal assessment, the new system helped prevent nearly two million dollars in potential risk exposure. The company also reported significant improvement in incident response time, faster decision making, and better productivity for their security team. The combination of human expertise and AI automation delivered measurable results in both efficiency and protection.
+
+5. Why did it work
+The deployment worked because Aireon focused on solving a real business problem instead of automating everything at once. They applied agentic AI only in the areas where human analysts faced repetitive or time-consuming tasks. By clearly defining the agent’s purpose, integrating it with existing tools, and maintaining human review, the company created a secure and effective partnership between humans and AI. The project succeeded because it improved scalability while preserving accountability.
+
+Trusted Source
+TechTarget Report: CISO enlists agentic AI reinforcements for SecOps
+Published January 29 2025
+Available at: https://www.techtarget.com/searchITOperations/news/366617888/CISO-enlists-agentic-AI-reinforcements-for-SecOps
+
